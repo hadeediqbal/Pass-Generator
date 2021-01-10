@@ -7,5 +7,8 @@ between 1-25 character using the blue slider to pick how many you want.
 
 The password will be generated in the box and you can copy the genrated password.
 
+Link to deployed app:
+https://hadeediqbal.github.io/Pass-Generator/
+
 Source:
 https://youtu.be/9sT03jEwcaw
