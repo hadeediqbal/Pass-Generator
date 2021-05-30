@@ -14,4 +14,3 @@ Source:
 https://youtu.be/9sT03jEwcaw
 
 ![](images/screenshot.png)
-![](images/I Like To Move It.mp3)
